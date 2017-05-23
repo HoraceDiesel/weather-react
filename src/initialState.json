@@ -1,0 +1,85 @@
+{
+  "city": "California",
+  "allForecast": [
+    {
+      "code": "32",
+      "date": "22 May 2017",
+      "day": "Mon",
+      "high": "91",
+      "low": "52",
+      "text": "Sunny"
+    },
+    {
+      "code": "32",
+      "date": "23 May 2017",
+      "day": "Tue",
+      "high": "92",
+      "low": "54",
+      "text": "Sunny"
+    },
+    {
+      "code": "34",
+      "date": "24 May 2017",
+      "day": "Wed",
+      "high": "88",
+      "low": "57",
+      "text": "Mostly Sunny"
+    },
+    {
+      "code": "34",
+      "date": "25 May 2017",
+      "day": "Thu",
+      "high": "82",
+      "low": "54",
+      "text": "Mostly Sunny"
+    },
+    {
+      "code": "32",
+      "date": "26 May 2017",
+      "day": "Fri",
+      "high": "76",
+      "low": "46",
+      "text": "Sunny"
+    },
+    {
+      "code": "32",
+      "date": "27 May 2017",
+      "day": "Sat",
+      "high": "80",
+      "low": "46",
+      "text": "Sunny"
+    },
+    {
+      "code": "32",
+      "date": "28 May 2017",
+      "day": "Sun",
+      "high": "85",
+      "low": "47",
+      "text": "Sunny"
+    },
+    {
+      "code": "34",
+      "date": "29 May 2017",
+      "day": "Mon",
+      "high": "90",
+      "low": "51",
+      "text": "Mostly Sunny"
+    },
+    {
+      "code": "30",
+      "date": "30 May 2017",
+      "day": "Tue",
+      "high": "90",
+      "low": "54",
+      "text": "Partly Cloudy"
+    },
+    {
+      "code": "30",
+      "date": "31 May 2017",
+      "day": "Wed",
+      "high": "87",
+      "low": "57",
+      "text": "Partly Cloudy"
+    }
+  ]
+}
