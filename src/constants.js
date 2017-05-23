@@ -1,6 +1,9 @@
 const constants = {
   GET_WEATHER: 'GET_WEATHER',
   GET_CITY: 'GET_CITY',
-  RESET: 'RESET'
+  RESET: 'RESET',
+  INVALID_CITY: 'INVALID_CITY',
+  CITY_OUTSIDE_US: 'CITY_OUTSIDE_US',
+  CLEAR_ERROR: 'CLEAR_ERROR'
 }
 export default constants

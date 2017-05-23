@@ -13,3 +13,21 @@ export const getCity = (city) => (
     city: city
   }
 )
+
+export const invalidCity = () => (
+  {
+    type: C.INVALID_CITY
+  }
+)
+
+export const cityOutsideUS = () => (
+  {
+    type: C.CITY_OUTSIDE_US
+  }
+)
+
+export const clearErrors = () => (
+  {
+    type: C.CLEAR_ERROR
+  }
+)

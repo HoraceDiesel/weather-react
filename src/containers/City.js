@@ -4,7 +4,8 @@ import City from '../components/City'
 
 const mapStateToProps = (state) => {
   return {
-    city: state.city
+    city: state.city,
+    errors: state.errors
   }
 }
 
